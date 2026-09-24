@@ -1,0 +1,6 @@
+{
+  "name": "São Paulo Prime Imóveis - Mooca, Brás e Morumbi",
+  "description": "Lançamentos e apartamentos exclusivos em São Paulo nos bairros da Mooca, Brás e Morumbi. Condições especiais de lançamento e atendimento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
